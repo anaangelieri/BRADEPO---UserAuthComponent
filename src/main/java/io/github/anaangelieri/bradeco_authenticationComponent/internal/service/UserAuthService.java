@@ -6,8 +6,6 @@ import java.util.List;
 import java.util.Map;
 
 import io.github.anaangelieri.bradeco_authenticationComponent.internal.model.User;
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.screens.OnBoarding;
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.screens.SplashScreen;
 
 public class UserAuthService {
 
@@ -56,11 +54,15 @@ public class UserAuthService {
     }
 
     public void showSplashScreen() {
-        SplashScreen.printSplashScreen();
+        System.out.println("==== Splash Screen ====");
+        System.out.println("Bem-vindo à Splash Screen do Bazar Books!");
+        System.out.println("Iniciando aplicação...");
     }
 
     public void passOnboarding() {
-        OnBoarding.printOnBoarding();
+        System.out.println("==== Onboarding ====");
+        System.out.println("Bem-vindo ao Bazar Books!");
+        System.out.println("Leia, descubra, compartilhe.");
     }
 
 }

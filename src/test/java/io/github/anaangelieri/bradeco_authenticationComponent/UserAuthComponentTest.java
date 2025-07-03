@@ -1,3 +1,4 @@
+package io.github.anaangelieri.bradeco_authenticationComponent;
 
 import java.util.List;
 
