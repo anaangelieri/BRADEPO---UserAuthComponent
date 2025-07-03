@@ -1,6 +1,6 @@
 package io.github.anaangelieri.bradeco_authenticationComponent.provided;
 
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.UserAuthService;
+import io.github.anaangelieri.bradeco_authenticationComponent.internal.service.UserAuthService;
 import io.github.lifveras.bredeco_pic_abstract.provided.ComponentInterface;
 
 public class UserAuthConcreteInterface extends ComponentInterface {

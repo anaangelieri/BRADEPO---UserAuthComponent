@@ -8,8 +8,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.UserAuthService;
 import io.github.anaangelieri.bradeco_authenticationComponent.internal.model.User;
+import io.github.anaangelieri.bradeco_authenticationComponent.internal.service.UserAuthService;
 import io.github.anaangelieri.bradeco_authenticationComponent.provided.UserAuthConcreteInterfacePort;
 
 public class UserAuthComponentTest {

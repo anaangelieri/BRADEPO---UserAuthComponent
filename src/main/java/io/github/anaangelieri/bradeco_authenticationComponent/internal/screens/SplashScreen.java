@@ -1,4 +1,4 @@
-package io.github.anaangelieri.bradeco_authenticationComponent.screens;
+package io.github.anaangelieri.bradeco_authenticationComponent.internal.screens;
 
 public class SplashScreen {
 

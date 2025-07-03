@@ -1,4 +1,4 @@
-package io.github.anaangelieri.bradeco_authenticationComponent.internal;
+package io.github.anaangelieri.bradeco_authenticationComponent.internal.service;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -6,8 +6,8 @@ import java.util.List;
 import java.util.Map;
 
 import io.github.anaangelieri.bradeco_authenticationComponent.internal.model.User;
-import io.github.anaangelieri.bradeco_authenticationComponent.screens.OnBoarding;
-import io.github.anaangelieri.bradeco_authenticationComponent.screens.SplashScreen;
+import io.github.anaangelieri.bradeco_authenticationComponent.internal.screens.OnBoarding;
+import io.github.anaangelieri.bradeco_authenticationComponent.internal.screens.SplashScreen;
 
 public class UserAuthService {
 

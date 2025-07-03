@@ -2,8 +2,8 @@ package io.github.anaangelieri.bradeco_authenticationComponent.provided;
 
 import java.util.List;
 
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.UserAuthService;
 import io.github.anaangelieri.bradeco_authenticationComponent.internal.model.User;
+import io.github.anaangelieri.bradeco_authenticationComponent.internal.service.UserAuthService;
 import io.github.anaangelieri.bradeco_authenticationComponent.provided.interfaces.UserAuthInterface;
 import io.github.lifveras.bredeco_pic_abstract.provided.InterfacePort;
 
