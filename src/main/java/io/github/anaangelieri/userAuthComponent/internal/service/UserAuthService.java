@@ -1,11 +1,11 @@
-package io.github.anaangelieri.bradeco_authenticationComponent.internal.service;
+package io.github.anaangelieri.userAuthComponent.internal.service;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.model.User;
+import io.github.anaangelieri.userAuthComponent.internal.model.User;
 
 public class UserAuthService {
 

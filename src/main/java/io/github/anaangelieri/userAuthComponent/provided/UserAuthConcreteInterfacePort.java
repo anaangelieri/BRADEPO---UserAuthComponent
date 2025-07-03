@@ -1,10 +1,10 @@
-package io.github.anaangelieri.bradeco_authenticationComponent.provided;
+package io.github.anaangelieri.userAuthComponent.provided;
 
 import java.util.List;
 
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.model.User;
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.service.UserAuthService;
-import io.github.anaangelieri.bradeco_authenticationComponent.provided.interfaces.UserAuthInterface;
+import io.github.anaangelieri.userAuthComponent.internal.model.User;
+import io.github.anaangelieri.userAuthComponent.internal.service.UserAuthService;
+import io.github.anaangelieri.userAuthComponent.provided.interfaces.UserAuthInterface;
 import io.github.lifveras.bredeco_pic_abstract.provided.InterfacePort;
 
 public class UserAuthConcreteInterfacePort extends InterfacePort implements UserAuthInterface {

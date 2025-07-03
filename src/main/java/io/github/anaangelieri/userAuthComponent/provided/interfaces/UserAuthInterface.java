@@ -1,8 +1,9 @@
-package io.github.anaangelieri.bradeco_authenticationComponent.provided.interfaces;
+package io.github.anaangelieri.userAuthComponent.provided.interfaces;
 
 import java.util.List;
 
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.model.User;
+import io.github.anaangelieri.userAuthComponent.internal.model.User;
+
 
 public interface UserAuthInterface {
     User registerNewUser(String name, String email, String password);

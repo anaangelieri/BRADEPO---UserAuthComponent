@@ -1,4 +1,4 @@
-package io.github.anaangelieri.bradeco_authenticationComponent.internal.model;
+package io.github.anaangelieri.userAuthComponent.internal.model;
 
 public class User {
 

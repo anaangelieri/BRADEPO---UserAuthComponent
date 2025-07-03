@@ -1,4 +1,4 @@
-package io.github.anaangelieri.bradeco_authenticationComponent;
+package io.github.anaangelieri.userAuthComponent;
 
 import java.util.List;
 
@@ -9,9 +9,9 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.model.User;
-import io.github.anaangelieri.bradeco_authenticationComponent.internal.service.UserAuthService;
-import io.github.anaangelieri.bradeco_authenticationComponent.provided.UserAuthConcreteInterfacePort;
+import io.github.anaangelieri.userAuthComponent.internal.model.User;
+import io.github.anaangelieri.userAuthComponent.internal.service.UserAuthService;
+import io.github.anaangelieri.userAuthComponent.provided.UserAuthConcreteInterfacePort;
 
 public class UserAuthComponentTest {
 
